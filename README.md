@@ -1,5 +1,5 @@
 # aria2-config
-This is not actively updated, as I merged the content into my [dotfiles](https://github.com/g6ai/dotfiles).
+**This repo is not actively maintained, please see my [dotfiles](https://github.com/g6ai/dotfiles) for latest version.**
 
 ##
 My aria2 configuration files.
